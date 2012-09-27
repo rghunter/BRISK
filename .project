@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>briskProject-Release@build</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.makeBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.cleanBuildTarget</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableCleanBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.append_environment</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.stopOnError</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enabledIncrementalBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.command</key>
+					<value>/usr/bin/make</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.contents</key>
+					<value>org.eclipse.cdt.make.core.activeConfigSettings</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.inc</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.arguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildLocation</key>
+					<value>/home/rghunter/OpenCV/brisk/build</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.environment</key>
+					<value>VERBOSE=1|CMAKE_NO_VERBOSE=1|</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableFullBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.auto</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableAutoBuild</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.clean</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.fullBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildArguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.location</key>
+					<value>/home/rghunter/OpenCV/brisk/build</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.autoBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.core.errorOutputParser</key>
+					<value>org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.ScannerConfigBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.make.core.makeNature</nature>
+		<nature>org.eclipse.cdt.make.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[Subprojects]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/Source Files/brisk.cpp</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/src/brisk.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/Header Files/brisk.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/include/brisk/brisk.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] brisk/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo/Source Files/demo.cpp</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/src/demo.cpp</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] demo/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/AstDetector.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/AstDetector.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/agast7_12d_nms.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/agast7_12d_nms.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/agast5_8.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/agast5_8.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/agast7_12s_nms.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/agast7_12s_nms.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/oast9_16.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/oast9_16.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/agast7_12s.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/agast7_12s.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/agast5_8_nms.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/agast5_8_nms.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/nonMaximumSuppression.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/nonMaximumSuppression.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/agast7_12d.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/agast7_12d.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Source Files/oast9_16_nms.cc</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/src/oast9_16_nms.cc</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files/agast5_8.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/include/agast/agast5_8.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files/oast9_16.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/include/agast/oast9_16.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files/agast7_12d.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/include/agast/agast7_12d.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files/agast7_12s.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/include/agast/agast7_12s.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files/AstDetector.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/include/agast/AstDetector.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Header Files/cvWrapper.h</name>
+			<type>1</type>
+			<location>/home/rghunter/OpenCV/brisk/thirdparty/agast/include/agast/cvWrapper.h</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] agast/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>bin</name>
+			<type>2</type>
+			<location>/home/rghunter/OpenCV/brisk/unix64/bin</location>
+		</link>
+		<link>
+			<name>lib</name>
+			<type>2</type>
+			<location>/home/rghunter/OpenCV/brisk/unix64/lib</location>
+		</link>
+	</linkedResources>
+</projectDescription>
